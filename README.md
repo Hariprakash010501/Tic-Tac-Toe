@@ -3,6 +3,7 @@ Component Chart:
 ![image](https://user-images.githubusercontent.com/120704241/209722559-a57f01fd-dbcd-4d4c-a459-4ae1d8e1d11f.png)
 
 Component Hierarchy:
+
 ![image](https://user-images.githubusercontent.com/120704241/209723683-0df63d40-a398-4a7a-8c91-bab5092a0c8c.png)
 
 Description:
